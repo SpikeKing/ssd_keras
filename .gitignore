@@ -99,3 +99,8 @@ local*
 
 # Mac
 .idea/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/ssd_keras.iml
+.idea/workspace.xml
